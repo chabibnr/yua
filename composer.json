@@ -1,12 +1,12 @@
 {
-    "name": "developeruz/yii-vue-app",
+    "name": "chabibnr/yua",
     "description": "Yii 2 + Vue.js Basic Project Template",
     "keywords": ["yii2", "framework", "basic", "project template", "vue.js"],
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/developeruz/yii-vue-app/issues?state=open",
-        "source": "https://github.com/developeruz/yii-vue-app"
+        "issues": "https://github.com/chabibnr/yua/issues?state=open",
+        "source": "https://github.com/chabibnr/yua"
     },
     "minimum-stability": "dev",
     "require": {
